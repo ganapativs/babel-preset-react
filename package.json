@@ -1,0 +1,25 @@
+{
+  "name": "@ganapativs/babel-preset-react",
+  "version": "0.0.2",
+  "description": "Base babel config for react setup",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganapativs/babel-preset-react.git"
+  },
+  "author": "Ganapati V S <meetguns.com>",
+  "license": "MIT",
+  "private": false,
+  "homepage": "https://github.com/ganapativs/babel-preset-react#readme",
+  "bugs": {
+    "url": "https://github.com/ganapativs/babel-preset-react/issues"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@babel/core": "^7.5.5",
+    "@babel/preset-env": "^7.5.5",
+    "@babel/preset-react": "^7.0.0"
+  }
+}

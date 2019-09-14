@@ -1,6 +1,6 @@
 {
   "name": "@ganapativs/babel-preset-react",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Base babel config for react setup",
   "main": "index.js",
   "repository": {
@@ -18,8 +18,8 @@
     "index.js"
   ],
   "dependencies": {
-    "@babel/core": "^7.5.5",
-    "@babel/preset-env": "^7.5.5",
+    "@babel/core": "^7.6.0",
+    "@babel/preset-env": "^7.6.0",
     "@babel/preset-react": "^7.0.0"
   }
 }

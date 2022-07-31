@@ -1,6 +1,6 @@
 {
   "name": "@ganapativs/babel-preset-react",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Base babel config for react setup",
   "main": "index.js",
   "repository": {
